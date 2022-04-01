@@ -4,3 +4,4 @@ The software used is Adobe Flash. Actually this program was made using Macromedi
 Action script 2.0
 GameMathForKid.fla
 GameMathForKid.exe   Build Application
+email: heru_a@staff.ubaya.ac.id
